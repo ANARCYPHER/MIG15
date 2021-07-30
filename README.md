@@ -20,15 +20,15 @@ and a lot more abilities which you can see in source
 implent database, change info in config.php, load in browser thats all :)
 # Special thanks to
 - Me - coder :) 
-- Matingolmakani@gmail.com - project designer
+- skull322@protonmail.com - project designer
 
 # To do
 - make it connected to a valid wallet providor website ( currently, wallets are static )
 - add mailing functions ( i removed to make it easier in localhost )
 - improve IOS responsive
 
-## Donation : 17RybYB1zdwRB881BGM3hSW2coBBHkXQcN
-## support / suggestion = ph09nixom@gmail.com - t.me/ph09nix
+## Donation : 
+## support / suggestion = skull322@protonmail.com - t.me/ph09nix
 ## Leave a STAR if you found this usefull :)
 
 # Pictures
